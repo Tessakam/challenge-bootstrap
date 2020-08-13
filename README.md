@@ -16,5 +16,3 @@ Source
 Google <3
 * https://hackerthemes.com/bootstrap-cheatsheet/#navbar__sticky-top
 
-Publish
-* https://tessakam.github.io/challenge-bootstrap/
