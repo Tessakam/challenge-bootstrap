@@ -6,7 +6,7 @@ The Mission
     Try to get as close as possible without writing CSS - done
     Add a navigation sidebar to the left, with some dummy links in them - done
     Style the navigation bar using only the framework you selected - done
-    Make the grid responsive and on mobile screens (< 768px) make sure the sidenav disappears completely.
+    Make the grid responsive and on mobile screens (< 768px) make sure the sidenav disappears completely - done
     When you move with your mouse over the "learn more" button, show a tooltip with some extra text. You can use the bootstrap tooltips for this - done
     Publish your result
 
